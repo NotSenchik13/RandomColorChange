@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Exo 2';
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 48px;
+    color: black;
+    text-transform: capitalize;
+    font-weight: 700;
+}
